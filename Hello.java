@@ -1,5 +1,5 @@
-// This is a simple Java program.
-// FileName : "Hellorld.java".
+// This is a simple a program.
+// FileName : "Hello.
  
 public class Hello
 {
