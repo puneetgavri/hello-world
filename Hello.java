@@ -3,7 +3,7 @@
  
 public class Hello
 {
-    // Your program begins with a call to main().
+    // Your program begins with a call to main().ndnlnalskmlas
     // "Hello, World" to the terminal window.
     public static void main(String args[])
     {
