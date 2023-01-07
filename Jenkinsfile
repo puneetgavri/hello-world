@@ -22,10 +22,5 @@ pipeline {
                 echo 'Hello sonar stage'
             }
         }
-		stage('docker stage') {
-            steps {
-                echo 'Hello docker stage'
-            }
-        }
     }
 }
