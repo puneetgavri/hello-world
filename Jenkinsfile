@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('git stage') {
             steps {
-                echo 'Hello git stage'
+                git 'https://github.com/puneetgavri/hello-world.git'
             }
         }
 		stage('maven stage') {
