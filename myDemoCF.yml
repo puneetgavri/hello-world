@@ -26,6 +26,7 @@ Parameters:
 
   creator:
     Type: String
+    Default: puneet
     Description: person who is the owner of this cft
   
   mykeypair:
